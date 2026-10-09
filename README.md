@@ -6,6 +6,9 @@ This repository explores a practical approach to adopting AI while managing secu
 
 My starting position is that AI governance should help an organisation reach an informed **"yes" or "no"** rather than making "no" the default answer.
 
+
+> **Status:** Maintained reference implementation  
+> **Last reviewed:** October 2026
 ---
 
 ## My Approach
