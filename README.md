@@ -6,9 +6,9 @@ This repository explores a practical approach to adopting AI while managing secu
 
 My starting position is that AI governance should help an organisation reach an informed **"yes" or "no"** rather than making "no" the default answer.
 
-
 > **Status:** Maintained reference implementation  
 > **Last reviewed:** October 2026
+
 ---
 
 ## My Approach
@@ -209,19 +209,32 @@ It is to understand whether it is being used **safely and usefully**.
 
 ## From Framework to Practice
 
-I have also documented a practical example of applying these principles within an organisation of approximately 120 people.
+I have also documented a practical example of applying these principles within a professional-services environment.
 
-The initiative involved an AI pilot of around 40 staff exploring real business use cases including:
+The initiative used a controlled pilot to explore common knowledge-work activities such as:
 
-- Tender responses
-- Data analysis and statistical modelling
-- Coding assistance and QA
+- drafting and summarisation;
+- analysis;
+- technical assistance;
+- quality checking.
 
-The broader objective was to understand how AI could be enabled without allowing it to develop into uncontrolled Shadow IT.
+The broader objective was to understand how AI could be enabled without allowing adoption to develop into uncontrolled Shadow AI.
 
-This included developing approaches around use-case risk, data classification, privacy, data loss and consistent assessment across different AI platforms.
+The work included use-case assessment, data classification, privacy, information protection, platform controls, user education and measurement.
 
-[Read: Governed AI Adoption](https://github.com/rakeshranderia/technology-leadership/blob/main/ai/governed-ai-adoption.md)
+[Read: Governed AI Adoption](https://github.com/rakeshranderia/technology-leadership/blob/main/case-studies/ai-adoption-case-study.md)
+
+---
+
+## How the Governance Portfolio Fits Together
+
+The governance repositories are designed to operate as a connected set rather than as competing frameworks.
+
+See [Governance & Responsible AI Portfolio](GOVERNANCE-PORTFOLIO.md) for the overall model.
+
+At a high level:
+
+**Govern the data → govern the AI → assess the use case → assess readiness → adopt safely → monitor and improve.**
 
 ---
 
